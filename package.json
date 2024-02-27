@@ -35,8 +35,8 @@
     "turbo": "^1.6.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
-    "@commitlint/config-conventional": "^17.3.0",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
     "@types/node": "^18.11.9",
     "@types/react": "18.2.31",
     "@types/react-dom": "18.2.14",
